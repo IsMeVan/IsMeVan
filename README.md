@@ -12,7 +12,20 @@ Python • Machine Learning • Data Analytics • Business Intelligence • Pro
 
 ---
 
-### 🧠 Tech Stack
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgres,mongodb,flask,fastapi,tensorflow,git,github,vscode" />
+</p>
+
+### Data Science & AI
+<p align="left">
+  <img src="https://cdn.simpleicons.org/pandas" width="45" />
+  <img src="https://cdn.simpleicons.org/numpy" width="45" />
+  <img src="https://cdn.simpleicons.org/scikitlearn" width="45" />
+  <img src="https://cdn.simpleicons.org/jupyter" width="45" />
+  <img src="https://cdn.simpleicons.org/huggingface" width="45" />
+</p>
 
 #### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
