@@ -13,11 +13,12 @@ Python • Machine Learning • Data Analytics • Business Intelligence • Pro
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgres,mongodb,flask,fastapi,tensorflow,git,github,vscode" />
 </p>
 
+
+🧠 AI & Data Science
 ### Data Science & AI
 <p align="left">
   <img src="https://cdn.simpleicons.org/pandas" width="45" />
