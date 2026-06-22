@@ -1,6 +1,12 @@
-# Hi 👋 I'm Van
+# Hi 👋 I'm Vaneth
+# Data Scientist
 
-🎓 Data Science student  
-💻 Working on AI & recommendation systems  
-🚀 Building EduMatch project  
-📊 Interested in machine learning, NLP, and data pipelines  
+Python • Machine Learning • Data Analytics • Business Intelligence
+
+---
+
+🌱 Passionate about solving real-world business problems using data, machine learning, and analytics.
+
+📊 Focused on turning data into actionable insights for better decision-making.
+
+🚀 Continuously learning and building projects in data science, AI, and business-driven solutions.
