@@ -12,17 +12,20 @@ Python • Machine Learning • Data Analytics • Business Intelligence • Pro
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,mysql,postgres,mongodb,fastapi,flask,tensorflow,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgres,mongodb,flask,fastapi,tensorflow,git,github,vscode" />
 </p>
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,huggingface,jupyter" />
+### Data Science & AI
+<p align="left">
+  <img src="https://cdn.simpleicons.org/pandas" width="45" />
+  <img src="https://cdn.simpleicons.org/numpy" width="45" />
+  <img src="https://cdn.simpleicons.org/scikitlearn" width="45" />
+  <img src="https://cdn.simpleicons.org/jupyter" width="45" />
+  <img src="https://cdn.simpleicons.org/huggingface" width="45" />
 </p>
-
-
 
 ### 🌱 Motto
 > “Data is not just numbers — it’s decisions, strategy, and business impact.”
