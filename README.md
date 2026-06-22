@@ -12,21 +12,15 @@ Python • Machine Learning • Data Analytics • Business Intelligence • Pro
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tools & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgres,mongodb,flask,fastapi,tensorflow,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,mysql,postgres,mongodb,fastapi,flask,tensorflow,git,github,vscode" />
 </p>
 
-### Data Science & AI
-<p align="left">
-  <img src="https://cdn.simpleicons.org/pandas" width="45" />
-  <img src="https://cdn.simpleicons.org/numpy" width="45" />
-  <img src="https://cdn.simpleicons.org/scikitlearn" width="45" />
-  <img src="https://cdn.simpleicons.org/jupyter" width="45" />
-  <img src="https://cdn.simpleicons.org/huggingface" width="45" />
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,huggingface,jupyter" />
 </p>
-
 #### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
