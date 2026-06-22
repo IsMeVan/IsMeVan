@@ -1,4 +1,4 @@
-# Hi 👋 I'm Vaneth
+# Hi 👋 I'm VanDeth
 # Data Scientist
 
 Python • Machine Learning • Data Analytics • Business Intelligence
