@@ -17,7 +17,7 @@ Python • Machine Learning • Data Analytics • Business Intelligence • Pro
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgres,mongodb,flask,fastapi,tensorflow,git,github,vscode" />
 </p>
 
-
+---
 ## 🧠 AI & Data Science
 ### Data Science & AI
 <p align="left">
