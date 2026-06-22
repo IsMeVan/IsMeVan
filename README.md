@@ -6,7 +6,7 @@ Python • Machine Learning • Data Analytics • Business Intelligence • Pro
 ---
 
 ### 💡 About Me
-🌱 Passionate about solving real-world business problems using data, AI, and machine learning.  
+🌱 Passionate about continuously learning, building real-world projects, and exploring new technologies. 
 📊 Focused on turning raw data into actionable insights for better decision-making.  
 📈 Interested in Data Science, Machine Learning, and Business Intelligence, Data Engineer.
 
