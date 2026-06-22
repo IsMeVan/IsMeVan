@@ -18,7 +18,7 @@ Python • Machine Learning • Data Analytics • Business Intelligence • Pro
 </p>
 
 
-🧠 AI & Data Science
+## 🧠 AI & Data Science
 ### Data Science & AI
 <p align="left">
   <img src="https://cdn.simpleicons.org/pandas" width="45" />
