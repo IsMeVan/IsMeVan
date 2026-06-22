@@ -1,15 +1,16 @@
-# Hi 👋 I'm VanDeth
-# Data Scientist
+# Hi 👋, I'm Van
 
-Python • Machine Learning • Data Analytics • Business Intelligence
+## Data Scientist | AI Engineer | Business-Oriented Problem Solver
 
 ---
 
-🌱 Passionate about solving real-world business problems using data, machine learning, and analytics.
+### 💡 About Me
+🌱 Passionate about solving real-world business problems using data, AI, and machine learning.  
+📊 Focused on turning raw data into actionable insights for better decision-making.  
+🚀 Currently building AI-powered recommendation systems and RAG-based chatbot solutions.  
+📈 Interested in Data Science, Machine Learning, and Business Intelligence.
 
-📊 Focused on turning data into actionable insights for better decision-making.
-
-🚀 Continuously learning and building projects in data science, AI, and business-driven solutions.
+---
 
 ### 🧠 Tech Stack
 
@@ -49,5 +50,24 @@ Python • Machine Learning • Data Analytics • Business Intelligence
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+### 🚀 Current Projects
+- 🎓 EduMatch – AI University Recommendation System  
+- 🤖 RAG Chatbot for educational data  
+- 📊 Data pipeline for structured academic insights  
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsMeVan&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsMeVan&layout=compact&theme=tokyonight)
+
+---
+
+### 🌱 Motto
+> “Data is not just numbers — it’s decisions, strategy, and business impact.”
 
 ---
